@@ -1,0 +1,12 @@
+{
+  "name": "hashan-github-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Configurable GitHub profile README package for Hashan Chamuditha",
+  "scripts": {
+    "generate": "node scripts/generate-assets.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

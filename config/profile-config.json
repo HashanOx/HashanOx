@@ -1,0 +1,53 @@
+{
+  "profile": {
+    "name": "Hashan Chamuditha",
+    "shortName": "Hashan",
+    "title": "Full-Stack Developer",
+    "tagline": "Independent developer \u2022 Self-taught \u2022 Learn by doing",
+    "githubUsername": "YOUR_GITHUB_USERNAME"
+  },
+  "contact": {
+    "email": "YOUR_EMAIL",
+    "whatsapp": "YOUR_WHATSAPP_NUMBER"
+  },
+  "theme": {
+    "background": "#080810",
+    "surface": "#11111D",
+    "primary": "#A78BFA",
+    "secondary": "#22D3EE",
+    "text": "#F4F4F8",
+    "muted": "#A1A1B5"
+  },
+  "technologies": [
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Python",
+    "C++",
+    "Bash",
+    "Docker"
+  ],
+  "interests": [
+    "Full-stack development",
+    "Understanding software and system internals",
+    "Reverse engineering to understand how things work",
+    "Practical experimentation",
+    "Building useful software"
+  ],
+  "learning": [
+    "Advanced development",
+    "Docker"
+  ],
+  "projects": {
+    "public": [],
+    "privateWorkMessage": "Public repositories are just the surface. The real work lives behind the scenes."
+  },
+  "statistics": {
+    "showProfileStats": true,
+    "showTopLanguages": true,
+    "showStreak": true,
+    "showContributionSnake": true
+  },
+  "footer": "Built through curiosity. Improved through experience."
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Hashan Chamuditha — Full-Stack Developer</title><desc id="desc">Animated premium dark banner with glowing purple and cyan motion, particles, and a scanning light.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080810"/><stop offset=".55" stop-color="#111025"/><stop offset="1" stop-color="#07151c"/></linearGradient>
+ <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A78BFA"/><stop offset=".5" stop-color="#E879F9"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#22D3EE" stop-opacity=".55"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="26"/></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="5"/></filter>
+ <clipPath id="clip"><rect width="1200" height="390" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1200" height="390" fill="url(#bg)"/>
+ <ellipse cx="1010" cy="65" rx="300" ry="180" fill="#7C3AED" opacity=".26" filter="url(#blur)"><animate attributeName="rx" values="260;330;260" dur="9s" repeatCount="indefinite"/></ellipse>
+ <ellipse cx="150" cy="360" rx="300" ry="130" fill="#0891B2" opacity=".2" filter="url(#blur)"><animate attributeName="ry" values="100;155;100" dur="7s" repeatCount="indefinite"/></ellipse>
+ <g fill="none" stroke="url(#glow)" opacity=".32"><path d="M-20 300 C220 190 360 410 600 275 S980 160 1220 245" stroke-width="2"><animate attributeName="stroke-dasharray" values="8 14;30 12;8 14" dur="8s" repeatCount="indefinite"/></path><path d="M-20 330 C220 220 380 420 630 300 S990 190 1220 275" stroke-width="1.5" opacity=".65"><animate attributeName="stroke-dashoffset" values="0;-180;0" dur="12s" repeatCount="indefinite"/></path></g>
+ <g fill="#22D3EE"><circle cx="920" cy="105" r="3"><animate attributeName="cy" values="105;75;105" dur="4s" repeatCount="indefinite"/></circle><circle cx="1080" cy="220" r="2.5"><animate attributeName="opacity" values=".15;1;.15" dur="2.8s" repeatCount="indefinite"/></circle><circle cx="760" cy="55" r="2"><animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/></circle><circle cx="1130" cy="310" r="3"><animate attributeName="opacity" values=".2;.9;.2" dur="3.6s" repeatCount="indefinite"/></circle></g>
+ <path d="M-100 0 L-30 0 L-300 390 L-370 390Z" fill="#fff" opacity=".035"><animateTransform attributeName="transform" type="translate" values="0 0;1700 0" dur="8s" repeatCount="indefinite"/></path>
+ <text x="82" y="82" fill="#A1A1B5" font-family="monospace" font-size="14" letter-spacing="4">INDEPENDENT DEVELOPER / BUILDING THROUGH CURIOSITY</text>
+ <text x="78" y="178" fill="#F4F4F8" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700">Hashan Chamuditha</text>
+ <text x="82" y="226" fill="url(#glow)" font-family="monospace" font-size="24" letter-spacing="3">FULL-STACK DEVELOPER</text>
+ <text x="82" y="278" fill="#B8B7CC" font-family="Arial,Helvetica,sans-serif" font-size="18">Learn by building. Understand by experimenting. Improve through iteration.</text>
+ <rect x="82" y="315" width="290" height="3" rx="2" fill="#28243e"/><rect x="82" y="315" width="80" height="3" rx="2" fill="url(#glow)"><animate attributeName="x" values="82;292;82" dur="4.5s" repeatCount="indefinite"/></rect>
+ <circle cx="1110" cy="80" r="7" fill="#22D3EE" opacity=".18" filter="url(#soft)"/><circle cx="1110" cy="80" r="4" fill="#22D3EE"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;1;.5" dur="2s" repeatCount="indefinite"/></circle>
+ <rect x="1" y="1" width="1198" height="388" rx="25" fill="none" stroke="url(#glow)" stroke-opacity=".55" stroke-width="2"><animate attributeName="stroke-opacity" values=".22;.8;.22" dur="5s" repeatCount="indefinite"/></rect>
+</g></svg>
