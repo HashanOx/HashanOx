@@ -85,7 +85,7 @@ I prefer to share projects when there's something useful and presentable to show
 
 <img src="https://streak-stats.demolab.com?user=HashanOx&hide_border=true&background=080810&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=F4F4F8&dates=A1A1B5&currStreakNum=F4F4F8&sideNums=F4F4F8" alt="GitHub contribution streak" width="100%">
 
-<img src="https://raw.githubusercontent.com/HashanOx/HashanOx/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%">
+<img src="https://raw.githubusercontent.com/HashanOx/HashanOx/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" width="100%">
 
 </div>
 
