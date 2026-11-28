@@ -6,8 +6,6 @@
 
 **FULL-STACK DEVELOPER** · Independent builder · Curious by default
 
-[GitHub](https://github.com/HashanOx) · [Email](mailto:hashachamuditha74@gmail.com) · [WhatsApp](https://wa.me/94761812851)
-
 </div>
 
 ---
